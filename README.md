@@ -2,9 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=30&center=false&vCenter=true&width=1200&height=120&lines=Suhrob+Kholmurodov;Frontend+Developer;">
 
-### 💻 Programming Languages:
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<div style="display:flex; gap: 15px;">
+### 💻 Programming Languages:
+<div style="display: flex; flex-wrap: wrap; margin-top:-10px; gap: 5px;">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
         alt="C++">
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
@@ -13,3 +14,18 @@
         alt="TypeScript">
 </div>
 
+### 🎨 Frontend Technologies:
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white"
+        alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+        alt="Tailwind CSS">
+</div>
+</div>
+
+### Top Languages :
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirsaidovUmed&langs_count=8&theme=tokyonight)
