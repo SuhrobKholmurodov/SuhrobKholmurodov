@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=30&center=false&vCenter=true&width=1200&height=120&lines=Suhrob+Kholmurodov;Frontend+Developer;">
 
 
-<div style="display:flex; gap: 15px;">
 ### 💻 Programming Languages:
 <div style="display: flex; flex-wrap: wrap; margin-top:-10px; gap: 5px;">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
@@ -25,7 +24,6 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
         alt="Tailwind CSS">
 </div>
-</div>
 
 ### Top Languages :
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirsaidovUmed&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&langs_count=8&theme=tokyonight)
