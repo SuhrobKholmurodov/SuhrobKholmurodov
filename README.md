@@ -2,6 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=30&center=false&vCenter=true&width=1200&height=120&lines=Suhrob+Kholmurodov;Frontend+Developer;">
 
+![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
+[![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
+
 
 ### 💻 Programming Languages:
 <div style="display: flex; flex-wrap: wrap; margin-top:-10px; gap: 5px;">
