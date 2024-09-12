@@ -33,8 +33,8 @@
 > **:octocat: [Github Profile Summary](https://profile-summary-for-github.com/user/SuhrobKholmurodov)**
 
 <p>
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=sr-44&theme=tokyonight_duo">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sr-44&theme=tokyonight_duo" />
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=SuhrobKholmurodov&theme=tokyonight_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhrobKholmurodov&theme=tokyonight_duo" />
 </a>
 </p>
 
