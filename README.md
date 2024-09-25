@@ -1,8 +1,8 @@
 ## Hi there 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=60&center=false&vCenter=true&width=1200&height=120&lines=Suhrob;Front+Dev;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=60&center=false&vCenter=true&width=1200&height=120&lines=Sukhrob;Front+Dev;">
 
-![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
+![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue) </br>
 ![](https://wakatime.com/badge/user/d87d3547-86bc-4a36-832f-26498ba35183.svg)
 
 
