@@ -29,13 +29,6 @@
 </div>
 
 ### 📉 My Stats
-
-<p>
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=SuhrobKholmurodov&theme=tokyonight_duo">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhrobKholmurodov&theme=tokyonight_duo" />
-</a>
-</p>
-
 <p>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=#212121">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=#212121" />
