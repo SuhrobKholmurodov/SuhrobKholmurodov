@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
         alt="Tailwind CSS">
 </div>
-
+</br>
 <p>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=#212121">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=#212121" />
