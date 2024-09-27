@@ -1,5 +1,5 @@
-## Hi there 
-## I'm Suhrob
+<h1 align="center">Hi 👋, I'm Somon Usmonzoda</h1>
+<h3 align="center">Frontend developer</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
