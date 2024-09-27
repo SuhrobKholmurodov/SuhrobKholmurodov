@@ -1,6 +1,7 @@
 ## Hi there 
-# Im Suhrob
-</br>
+## I'm Suhrob
+
+
 ![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
 ![](https://wakatime.com/badge/user/d87d3547-86bc-4a36-832f-26498ba35183.svg)
 
