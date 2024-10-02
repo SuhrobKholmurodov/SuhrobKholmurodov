@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suhrob Kholmurodov</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Suhrob Kholmurodov</h1>
+<h3 align="left">Frontend developer</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
