@@ -7,7 +7,9 @@
 
 
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
 
 ### 🎨 Frontend Technologies:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
