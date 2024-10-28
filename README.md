@@ -2,6 +2,15 @@
 <h3 align="left">Frontend developer</h3>
 
 
+<a href="https://github.com/SuhrobKholmurodov/SuhrobKholmurodov">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhrobKholmurodov/SuhrobKholmurodov/main/dark_mode.svg">
+    <img alt="Suhrob Kholmurodov's GitHub Profile README" src="https://raw.githubusercontent.com/SuhrobKholmurodov/SuhrobKholmurodov/main/light_mode.svg">
+  </picture>
+</a>
+
+
+
 ![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
 ![](https://wakatime.com/badge/user/d87d3547-86bc-4a36-832f-26498ba35183.svg)
 
