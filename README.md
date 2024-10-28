@@ -1,24 +1,24 @@
 <h1 align="left">Hi 👋, I'm Suhrob Kholmurodov</h1>
 <h3 align="left">Frontend developer</h3>
 
- <td align="center" style="border: none;">
+<div style="display: flex;">
+<td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
+</td>
+<td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
         </a>
-        <br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
+</td>
+<td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         </a>
-        <br>JavaScript
-      </td>
+</td>
+</div>
+  
 
 ![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
 ![](https://wakatime.com/badge/user/d87d3547-86bc-4a36-832f-26498ba35183.svg)
