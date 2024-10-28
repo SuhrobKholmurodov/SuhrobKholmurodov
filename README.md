@@ -8,8 +8,8 @@
 
 <div style="display: flex;">
 <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80"/>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80"/>
         </a>
 </td>
 <td align="center" style="border: none;">
@@ -18,8 +18,8 @@
         </a>
 </td>
 <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80"/>
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80"/>
         </a>
 </td>
 </div>
