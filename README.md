@@ -39,9 +39,10 @@
 
 <div style="display: flex; gap: 20px; justify-content: space-between; width: 500px">
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=iceberg&count_private=false&border_radius=15&border_color=%23212121">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=iceberg&count_private=false&border_radius=15&border_color=%23212121" alt="Top Languages" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=%23212121">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=%23212121" alt="Top Languages" />
 </a>
+</br>
 </br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhrobKholmurodov&theme=iceberg&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
