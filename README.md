@@ -37,10 +37,14 @@
 </div>
 </br>
 
-<p style="display: flex; justify-content: space-between;">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=#212121" />
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=%23212121">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=%23212121" alt="Top Languages" />
 </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhrobKholmurodov&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
-    align="center" width="95%" />
-</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhrobKholmurodov&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
+  alt="GitHub Streak" />
+
+</div>
+
