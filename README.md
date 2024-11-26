@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
 ![](https://wakatime.com/badge/user/d87d3547-86bc-4a36-832f-26498ba35183.svg)
-</br>
-![ Stats](https://leetcode-status.vercel.app/api/card/suhrob_io?theme=light&hide_title=true&custom_title=)
+
 
 
 <div style="display: flex;">
