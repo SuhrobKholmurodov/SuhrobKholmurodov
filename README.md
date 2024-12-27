@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Suhrob Kholmurodov</h1>
+<h1 align="left">Salom 👋, I'm Suhrob Kholmurodov</h1>
 <h3 align="left">Frontend developer</h3>
   
 
