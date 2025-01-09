@@ -2,22 +2,6 @@
 <h3 align="left">Frontend developer</h3>
 </br>
 
-<h3 align="left">Connect with me:</h3>
-<table align="left">
-     <td>
-            <a href="https://t.me/suhrob_io">
-                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
-                    height="48" width="48" alt="Telegram" />
-            </a>
-        </td>
-     <td>
-            <a href="https://instagram.com/suhrob_io" target="blank"><img align="center"
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    alt="instagram" height="48" width="48" /></a>
-        </td>
-</table>
-</br>
-</br>
 ![](https://komarev.com/ghpvc/?username=SuhrobKholmurodov-st&style=flat&label=PROFILE+VIEWS&color=blue)
 ![](https://wakatime.com/badge/user/d87d3547-86bc-4a36-832f-26498ba35183.svg)
 
@@ -67,4 +51,19 @@
 </a>
 
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<table align="left">
+     <td>
+            <a href="https://t.me/suhrob_io">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
+                    height="48" width="48" alt="Telegram" />
+            </a>
+        </td>
+     <td>
+            <a href="https://instagram.com/suhrob_io" target="blank"><img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                    alt="instagram" height="48" width="48" /></a>
+        </td>
+</table>
 
