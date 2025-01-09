@@ -42,7 +42,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </div>
 
 <div style="display: flex; gap: 20px; justify-content: space-between; width: 500px">
