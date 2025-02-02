@@ -36,6 +36,8 @@
         alt="Bootstrap">
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
         alt="Tailwind CSS">
+   <img src='https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg'"/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg'"/>
 </div>
 </br>
 
