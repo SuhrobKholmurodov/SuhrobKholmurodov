@@ -52,7 +52,7 @@
 <div style="display: flex; gap: 20px; justify-content: space-between; width: 500px">
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=%23212121">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=false&border_radius=15&border_color=%23212121" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobKholmurodov&layout=compact&langs_count=20&hide=Mako&hide=php&hide=blade&theme=nightowl&count_private=false&border_radius=15&border_color=%23212121" alt="Top Languages" />
 </a>
 
 </div>
